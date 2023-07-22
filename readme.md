@@ -1,4 +1,8 @@
 # 配置文件说明
+## 配置路径
+```shell
+~/.config/nvim/<lua file>
+```
 
 ## 如何安装字体
 使用 `Lazy.nvim` 作为包管理器时, 需要搭配 NERD FONTS 字体进行完整显示.
